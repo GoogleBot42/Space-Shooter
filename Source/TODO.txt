@@ -1,0 +1,6 @@
+clean up the order of functions
+
+combine physics bodies with class data? (probably not)
+ - sort dx and dy in objects or use a setter function to be consistent
+
+don't search through array to remove asteroids and lasers
